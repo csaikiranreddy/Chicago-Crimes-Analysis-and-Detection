@@ -1,6 +1,7 @@
 # Chicago-Crimes-Analysis-and-Detection
 
 Dataset : "Crimes in Chicago"
+
 Source : Kaggle (https://www.kaggle.com/currie32/crimes-in-chicago)
 
 Analyzed various trends in the Crimes in Chicago like the Highest type of crime in each year, major locations for crimes, etc.
