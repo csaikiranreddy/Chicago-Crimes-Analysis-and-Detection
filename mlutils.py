@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 ######################################################################
-# Adapted by Saikiran Chamakura from Colorado State University - CS480
+# Adapted by Saikiran Chamakura
 # Machine Learning Utilities. 
 #
 #  draw (a neural network)
